@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2C55C3-2AD1-49DC-8010-786612D8A73E}|EmtityWithNet.csproj|\\\\mac\\home\\documents\\k\u1EF3 5\\emtitywithnet\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2C55C3-2AD1-49DC-8010-786612D8A73E}|EmtityWithNet.csproj|\\\\mac\\home\\documents\\k\u1EF3 5\\emtitywithnet\\data\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2C55C3-2AD1-49DC-8010-786612D8A73E}|EmtityWithNet.csproj|\\\\mac\\home\\documents\\k\u1EF3 5\\emtitywithnet\\emtitywithnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B2C55C3-2AD1-49DC-8010-786612D8A73E}|EmtityWithNet.csproj|\\\\mac\\home\\documents\\k\u1EF3 5\\emtitywithnet\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAgAAAAgAQAAAIAZwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:28:08.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\Data\\StudentContext.cs",
+              "RelativeDocumentMoniker": "Data\\StudentContext.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\Data\\StudentContext.cs",
+              "RelativeToolTip": "Data\\StudentContext.cs",
+              "ViewState": "AgIAAA0AAAAAMDMzMzMLwAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:18:14.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "Model\\Student.cs",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\Model\\Student.cs",
+              "RelativeToolTip": "Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T07:16:10.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmtityWithNet",
+              "DocumentMoniker": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\EmtityWithNet.csproj",
+              "RelativeDocumentMoniker": "EmtityWithNet.csproj",
+              "ToolTip": "\\\\Mac\\Home\\Documents\\K\u1EF3 5\\EmtityWithNet\\EmtityWithNet.csproj",
+              "RelativeToolTip": "EmtityWithNet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-21T07:14:41.018Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
